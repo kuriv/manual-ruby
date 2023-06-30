@@ -1,6 +1,6 @@
 {
   "name": "manual-ruby",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Ruby 手册",
   "main": "index.js",
   "directories": {
